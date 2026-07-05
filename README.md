@@ -26,3 +26,6 @@ A console-based Rock Paper Scissors game developed in C++. The player competes a
 - Random number generation
 - Score tracking
 - Console input/output
+## Author
+
+Abd Al-Rahman KH Abdallah
